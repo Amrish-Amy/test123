@@ -1,0 +1,42 @@
+
+
+1)  got to directory where you want to clone repository
+
+cd amrish/projects/
+
+2) make directory on which you want to clone the Repository
+mkdir git
+
+3) go to new created directory
+cd git
+
+4) check git version and info : 
+
+git
+
+5) now write git clone command 
+git clone https://github.com/Amrish-Amy/test123.git
+
+6) now got to cloned repository
+cd test123/
+
+7) check any modification for git repository
+git status
+
+8) Now add the files on local cloned repository
+
+9) now add file to repository using add command
+git add .
+
+10) check status
+git status
+
+11)  now commit the file 
+git commit -m "new file added testing"
+
+12) now push the file
+git push
+
+
+13) Username for 'https://github.com': Amrish-Amy                      
+Password for 'https://Amrish-Amy@github.com': 
